@@ -121,5 +121,5 @@ java -cp out;ojdbc8.jar com.ems.main.MainApp
 ---
 
 ## 📌 Author
-**Java Developer** | Academic Project  
+**Ajaya [Java Developer]** | Academic Project  
 Employee Management System | Source Code Jun 2026
